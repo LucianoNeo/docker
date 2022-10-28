@@ -1,5 +1,11 @@
 # Imagem de servidor NodeJS + ExpressJS com DOCKER
 Com o docker devidamente instalado
+
+- Clonar o projeto
+```
+git clone https://github.com/LucianoNeo/node-express-docker.git
+cd node-express-docker
+```
 - Fazer o build da imagem:
 ```
 docker build -t node-express-img .
